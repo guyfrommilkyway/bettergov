@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/guyfrommilkyway/bettergov/compare/v1.0.0...v1.1.0) (2026-06-13)
+
+
+### Bug Fixes
+
+* **security:** Add URL validation and rate limiting to crawl endpoint ([#640](https://github.com/guyfrommilkyway/bettergov/issues/640)) ([9d57fc1](https://github.com/guyfrommilkyway/bettergov/commit/9d57fc1fe55866ffc9fb68bfca943c65148ab0f5))
+* **services:** update PSA Serbilis certificate links ([#654](https://github.com/guyfrommilkyway/bettergov/issues/654)) ([89f61ea](https://github.com/guyfrommilkyway/bettergov/commit/89f61ea3a7044c3e87a5bbdcc3c3bbc53826b171))
+
+
+### Features
+
+* implement Civic Assistant navigator interface ([#618](https://github.com/guyfrommilkyway/bettergov/issues/618)) ([f9e1607](https://github.com/guyfrommilkyway/bettergov/commit/f9e160709ea2df2517310076ce77e689b49b268a))
+
 # 1.0.0 (2026-05-11)
 
 
