@@ -1,3 +1,18 @@
+# [1.2.0](https://github.com/guyfrommilkyway/bettergov/compare/v1.1.0...v1.2.0) (2026-06-27)
+
+
+### Bug Fixes
+
+* **civic-assistant:** correct 'Initializing' typo in loading message ([#663](https://github.com/guyfrommilkyway/bettergov/issues/663)) ([500bb9e](https://github.com/guyfrommilkyway/bettergov/commit/500bb9ecacc9b9ce92f883ca774cc50e0a99e398))
+* **flood-control:** localize data export alert messages ([#662](https://github.com/guyfrommilkyway/bettergov/issues/662)) ([1e6aae3](https://github.com/guyfrommilkyway/bettergov/commit/1e6aae3cfa02ba58d6d47b5def9d57b7963e9f8b))
+* re-adding hardcoded wrangler values ([#661](https://github.com/guyfrommilkyway/bettergov/issues/661)) ([36b9d63](https://github.com/guyfrommilkyway/bettergov/commit/36b9d63a96e19c77a14cda0e5a4fd2d60f2fb9cf))
+
+
+### Features
+
+* **projects:** add dedicated projects page with status filtering and contributor visibility ([#652](https://github.com/guyfrommilkyway/bettergov/issues/652)) ([1d5e83b](https://github.com/guyfrommilkyway/bettergov/commit/1d5e83bbbd2e3732a4567ddc9ca887f6ea02d09f))
+* Update issue templates ([#655](https://github.com/guyfrommilkyway/bettergov/issues/655)) ([4ae976c](https://github.com/guyfrommilkyway/bettergov/commit/4ae976cbccf420910dee06cc6e5481bd1ecd9138))
+
 # [1.1.0](https://github.com/guyfrommilkyway/bettergov/compare/v1.0.0...v1.1.0) (2026-06-13)
 
 
